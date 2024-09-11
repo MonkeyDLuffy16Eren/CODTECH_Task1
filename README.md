@@ -1,5 +1,11 @@
-# CODTECH_Task1
+Name: Shreyash Upadhyay
+Company : CODTECH IT SOLUTIONS
+ID : CT6WDS1679
+Domain : Machine Learning
+Duration : Aug-Sept
 
+OverView of the Project
+----------------------------------------------------------------------------------------------
 Project: Housing Price Prediction using Linear Regression
 About Me
 Hello! I am Shreyash Upadhyay, a B.Tech student in Computer Science and Engineering (CSE Core) at Galgotias University. I am passionate about machine learning, data science, and developing solutions to real-world problems through technology. My interests lie in applying data-driven approaches to solve complex problems, particularly using statistical models and machine learning algorithms.
